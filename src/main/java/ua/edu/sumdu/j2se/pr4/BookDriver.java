@@ -1,4 +1,4 @@
-﻿package ua.edu.sumdu.j2se.pr4;
+package ua.edu.sumdu.j2se.pr4;
 
 import java.util.Locale;
 import java.util.Scanner;
