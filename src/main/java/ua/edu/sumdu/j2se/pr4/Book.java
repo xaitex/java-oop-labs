@@ -45,3 +45,5 @@ public class Book {
         return Objects.hash(title, author, year, price);
     }
 }
+
+// Book domain model
